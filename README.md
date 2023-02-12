@@ -1,0 +1,2 @@
+# RandomSentencesGenerator
+Simple console game 
