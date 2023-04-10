@@ -1,7 +1,7 @@
 # RandomSentencesGenerator
 A console-based C# implementation of the "Random Sentences Generator!
 
-<img src="C:/User/user/Desktop/images/look.jpg" alt="Alt text" title="Optional title">
+<img src="C:\Uer\ser\esktop\mages\ook.jpg" alt="Alt text" title="Optional title">
 
 <img
   src="C:/User/user/Desktop/images/look.jpg"
