@@ -1,6 +1,7 @@
 # RandomSentencesGenerator
-A console-based C# implementation of the "Random Sentences Generator
-<img alt ="Image" width = "200px" src = "[https://www.thewordfinder.com/images/og/random-sentence-generator.jpg](https://www.thewordfinder.com/images/og/random-sentence-generator.jpg)" />
+A console-based C# implementation of the "Random Sentences Generator!
+
+<img alt ="Image" width = "200px" src = "(https://user-images.githubusercontent.com/122825073/230964913-3968b84f-387e-4c77-b962-703945aef10c.jpg)" />
 
 The Generator is Based on the Following model:
 
