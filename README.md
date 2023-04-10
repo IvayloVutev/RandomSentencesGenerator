@@ -1,8 +1,7 @@
 # RandomSentencesGenerator
 A console-based C# implementation of the "Random Sentences Generator!
 
-![random-sentence-generator](https://user-images.githubusercontent.com/122825073/230965344-8abb03c3-301e-40ed-9046-3edbca0a9304.jpg)
-
+<img src="C:/User/user/Desktop/images/look.jpg" alt="Alt text" title="Optional title">
 
 The Generator is Based on the Following model:
 
